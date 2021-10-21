@@ -4,7 +4,7 @@ Computer -> Regular Internet -> Travel Router -> OpenVPN -> Work
 
 What is looks like to others
 
-Raspi/Personal Router Cloud Location -> Work
+Raspi/Personal Router/ Digital Ocean Location -> Work
 ____
 
 
