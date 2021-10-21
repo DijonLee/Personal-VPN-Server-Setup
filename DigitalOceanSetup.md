@@ -1,18 +1,5 @@
 # Personal-VPN-Server-Setup
 
-# Setting up a VPN  
-How it works
-
-Computer -> Regular Internet -> Travel Router -> Raspi/Cloud Service -> Work
-
-What is looks like to others
-
-Rapi/Cloud Location -> Work
-
-This guide uses raspi4 
-
-- 
-
 ---
 # Setting up VPN Using Digital Ocean
 ### Requirements before starting: 
