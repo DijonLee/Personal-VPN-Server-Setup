@@ -4,7 +4,9 @@
 # Setting up VPN Using Digital Ocean
 ### Requirements before starting: 
 [Sign up for digital ocean](https://m.do.co/c/8e844a776b79)
+
 [Buy a travel router with VPN](https://www.gl-inet.com/products/gl-mt1300/)
+
 ## Create a droplet (virtual private server)
 ### 1) Choose an image 
 * Cick marketplace, and search for OPENVPN 
