@@ -108,9 +108,13 @@ There are a few things I would do from here.
 
 
 https://www.youtube.com/watch?v=Bc8Nriy8_cE
+
 https://docs.gl-inet.com/en/3/tutorials/openvpn_client/
+
 https://docs.gl-inet.com/en/3/setup/gl-mt1300/first_time_setup/
+
 https://docs.gl-inet.com/en/3/tutorials/connect_to_a_hotspot_with_captive_portal/
+
 https://docs.gl-inet.com/en/3/tutorials/internet_kill_switch/
 
 
